@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\test1practic\test1practic\bin\Debug\net8.0\test1practic.deps.json
+C:\Users\Admin\source\repos\test1practic\test1practic\bin\Debug\net8.0\test1practic.dll
+C:\Users\Admin\source\repos\test1practic\test1practic\bin\Debug\net8.0\test1practic.pdb
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.dll
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\refint\test1practic.dll
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\test1practic.pdb
+C:\Users\Admin\source\repos\test1practic\test1practic\obj\Debug\net8.0\ref\test1practic.dll
